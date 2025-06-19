@@ -25,6 +25,11 @@ _A responsive HTML-based blog website dedicated to philosophy, featuring article
 
 **Philosophia Blog** is a responsive HTML-based website designed as a platform for sharing and exploring philosophical ideas. The site features articles inspired by renowned philosophers such as Nietzsche, Plato, and Alan Watts. Key sections include a main navigation menu, highlights of influential authors/philosophers, a list of the latest blog posts, and a contact area. The visual design is clean and modern, achieved through custom CSS (`main.css`), Fontello icons for social media links, and the "Open Sans" Google Font for typography. While the HTML `lang` attribute is set to "pl" (Polish), some content elements might be mixed or placeholder. The site includes `js/main.js` for potential interactivity.
 
+<br><br>
+<p align="center">
+  <img src="screenshots/1.gif" width="85%">
+</p>
+
 ## ✨ Key Features
 
 *   🧭 **Responsive Navigation Menu**:
@@ -52,9 +57,21 @@ _A responsive HTML-based blog website dedicated to philosophy, featuring article
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
+_Screenshots of: the Philosophia Blog homepage, the navigation menu, the author highlights section, examples of latest post previews, the contact section, and social media links._
 
-_This section would ideally show screenshots of: the Philosophia Blog homepage, the navigation menu, the author highlights section, examples of latest post previews, the contact section, and social media links._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+</p>
+
 
 ## 🛠️ Technical Stack & Requirements
 
