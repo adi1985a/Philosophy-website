@@ -148,12 +148,5 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 Project by **Adrian Lesniak**. For questions or feedback, open an issue or contact the repository owner.
 
-<p align="center">
-  <img src="img/alan-watts.jpg" width="80" alt="Alan Watts"/>
-  <img src="img/nietzsche.jpg" width="80" alt="Nietzsche"/>
-  <img src="img/platon.jpg" width="80" alt="Plato"/>
-  <img src="img/kant.jpg" width="80" alt="Kant"/>
-  <img src="img/emerson.jpg" width="80" alt="Emerson"/>
-</p>
 
 > _Sharing philosophical wisdom and ideas for curious minds._
